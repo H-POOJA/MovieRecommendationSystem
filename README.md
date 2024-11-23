@@ -11,8 +11,10 @@ Types of Recommender Systems
 2. Collaborative
 3. Hybrid (Content+Collaborative)
 
-Approach 1: Content based Recommender system :
-Dataset: 
+Approach 1: Content based Recommender system
+
+Dataset: Tmdb dataset from Kaggle
+
 Algorithms performed:-
 1. EDA and FE
 2. Preprocessing
