@@ -13,20 +13,17 @@ Types of Recommender Systems
 3. Hybrid (Content+Collaborative)
 
 Approach 1: Content based Recommender system
-
 Dataset: Tmdb dataset from Kaggle
 
 Algorithms performed:-
-1. EDA and FE
+1. EDA 
 2. Preprocessing
-3. Clustering Model
-4. Matrix Factorization
-5. Vectorization
-6. K-nearest neighbor
-7. Natural Language Processing (NLP)
-8. Cosine Similarity
-9. Pickle
-10. Streamlit for website development.
+3. Stemming
+4. Countvectorizer(BoW)
+5. Cosine Similarity
+6. Pickle
+7.Streamlit for website development.
+
 
 Approach 2: Collaborative Filtering
 
